@@ -6,13 +6,15 @@ console.log(3
     +
      3) // code readability should be high
 
-console.log("Sandip")
+// console.log("Sandip")
 
 
 let name = "Sandip"
 let age = 21
 let isLoggedIn = false
 let state;
+
+// console.log(typeof isLoggedIn)
 
 // number => 2 to power 53
 // bigint
@@ -27,3 +29,6 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+
+
