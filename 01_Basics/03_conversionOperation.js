@@ -1,12 +1,15 @@
 let score = "Sandip"
 
-//console.log(typeof score);
-//console.log(typeof(score));
+// console.log(typeof score);
+// console.log(typeof(score));
 
 let valueInNumber = Number(score)
-//console.log(typeof valueInNumber);
-//console.log(valueInNumber);
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
+let boolean = false
+let booleanValue = Number(boolean)
+// console.log(booleanValue);
 
 // "33" => 33
 // "33abc" => NaN
@@ -48,7 +51,7 @@ let str3 = str1 + str2
 
 // console.log("1" + 2);
 // console.log(1 + "2");
-// console.log("1" + 2 + 2);
+// console.log("1" + (2 + 2));
 // console.log(1 + 2 + "2");
 
 // console.log( (3 + 4) * 5 % 3);
@@ -62,6 +65,6 @@ num1 = num2 = num3 = 2 + 2
 
 let gameCounter = 100
 ++gameCounter;
-console.log(gameCounter);
+// console.log(gameCounter);
 
 // link to study
